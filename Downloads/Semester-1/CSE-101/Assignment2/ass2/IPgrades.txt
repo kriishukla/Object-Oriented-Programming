@@ -1,0 +1,3 @@
+2022254	('The Percentage is', 34.361383061383066)	D
+2022254	('The Percentage is', 36.69032465119422)	C-
+2022254	('The Percentage is', 34.361383061383066)	D

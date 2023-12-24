@@ -1,0 +1,12 @@
+stu1.txt
+score: 11.809523809523808
+Top 5 words are['had', 'he', 'done', 'everything', 'right.']
+random words are['had', 'right.', 'process.]', 'done', 'been']
+stu2.txt
+score: 11.809523809523808
+Top 5 words are['had', 'he', 'done', 'everything', 'right.']
+random words are['he', 'done', 'been', 'right.', 'mistakes']
+stu3.txt
+score: 11.03448275862069
+Top 5 words are['was', 'to', 'it', 'easy', 'spot']
+random words are['to', 'green', 'it', 'never', 'was']

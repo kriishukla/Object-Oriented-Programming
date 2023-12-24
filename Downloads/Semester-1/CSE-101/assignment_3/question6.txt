@@ -1,0 +1,44 @@
+
+The answer to this question should be be in a .txt file, containing:
+
+Advantages of using OO
+1.Easier to map problem in mind and get a framework
+2.Easy debugging
+3.less typing due to self 
+Advantages of using Dictionaries
+1.Easily access item by keys key value make it easier for user
+2.make procees much Faster even in lecture we saw how fast it is
+3.makes code much much smaller in size
+
+
+Disadvantage of using OO
+1.it is difficult to understand for a beigneer
+2.Size of program is comparatively larger
+3.quite slow in its process
+
+Disadvantage of using dictionaries
+1.Can not iterate it as it is unordered
+2.Debugging is tough in dictionary
+3.concatenation is tough in dictionaries
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:1000
+2. Time by OO: 8008169.662121 ms
+3. Time by dictionary: 30416796.8695
+4. X is faster; fraction of time x took is: X == dictionary
+
+                                        dictionary
+                                       ------------ == 0.26328116325
+                                            OOP
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:1000
+2. Time by OO: 254964197.3997476 ms
+3. Time by dictionary: 324719139.47671744 ms
+4. X is faster; fraction of time x took is: X == Dictionaries
+
+
+                                         dictionary
+                                       --------------- == 0.78518376777
+                                            OOP
+
